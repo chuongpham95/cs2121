@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\Debug\lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab2.map</FILE>
+  <FILE>lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>20</LINE></start>
+  <alphastring><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>10</LINE></alphastring>
+  <digitstring><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>11</LINE></digitstring>
+  <invalidstring><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>12</LINE></invalidstring>
+  <checkalpha><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>148</LINE></checkalpha>
+  <checkstring><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>66</LINE></checkstring>
+  <isdigit><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>111</LINE></isdigit>
+  <halt><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>63</LINE></halt>
+  <load><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>78</LINE></load>
+  <done_string><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>98</LINE></done_string>
+  <invalid_1><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>131</LINE></invalid_1>
+  <valid_1><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>127</LINE></valid_1>
+  <done_1><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>136</LINE></done_1>
+  <first_check><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>159</LINE></first_check>
+  <invalid_2><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>177</LINE></invalid_2>
+  <valid_2><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>173</LINE></valid_2>
+  <second_check><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>166</LINE></second_check>
+  <done_2><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab2\lab2\partc.asm</FILE><LINE>181</LINE></done_2>
+ </LABELS>
+</ASSEMBLER_INFO>
