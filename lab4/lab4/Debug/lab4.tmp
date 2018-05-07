@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\Debug\lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab4.map</FILE>
+  <FILE>lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>200</LINE></RESET>
+  <div8><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>93</LINE></div8>
+  <loop><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>102</LINE></loop>
+  <done><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>115</LINE></done>
+  <skip><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>112</LINE></skip>
+  <sleep_1ms><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>121</LINE></sleep_1ms>
+  <delayloop_1ms><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>127</LINE></delayloop_1ms>
+  <sleep_5ms><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>135</LINE></sleep_5ms>
+  <sleep_450ms><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>143</LINE></sleep_450ms>
+  <start_sleep><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>146</LINE></start_sleep>
+  <exit_sleep><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>152</LINE></exit_sleep>
+  <lcd_command><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>157</LINE></lcd_command>
+  <lcd_data><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>167</LINE></lcd_data>
+  <lcd_wait><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>179</LINE></lcd_wait>
+  <lcd_wait_loop><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>186</LINE></lcd_wait_loop>
+  <main><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>242</LINE></main>
+  <colloop><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>247</LINE></colloop>
+  <delay><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>256</LINE></delay>
+  <nextcol><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>286</LINE></nextcol>
+  <rowloop><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>270</LINE></rowloop>
+  <convert><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>294</LINE></convert>
+  <letters><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>343</LINE></letters>
+  <symbols><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>326</LINE></symbols>
+  <update_input><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>316</LINE></update_input>
+  <convert_end><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>369</LINE></convert_end>
+  <star><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>336</LINE></star>
+  <zero><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>339</LINE></zero>
+  <addition><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>351</LINE></addition>
+  <subtraction><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>360</LINE></subtraction>
+  <calculation><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>435</LINE></calculation>
+  <writeDigits><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>379</LINE></writeDigits>
+  <writeHundreds><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>408</LINE></writeHundreds>
+  <writeTens><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>397</LINE></writeTens>
+  <done_write><FILE>C:\Users\chuongpham\Documents\Atmel Studio\7.0\lab4\lab4\partc.asm</FILE><LINE>429</LINE></done_write>
+ </LABELS>
+</ASSEMBLER_INFO>
